@@ -1,5 +1,5 @@
-Shipping Code with Dokku (source code)
-======================================
+Shipping Code with Dokku
+========================
 
 This repository contains all original scripts used within the **Shipping Code with Dokku** presentation delivered to the Docker Indonesia meetup group, held at [Wego](http://www.wego.co.id) offices on 2014-03-08.
 
