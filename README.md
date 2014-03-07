@@ -6,4 +6,4 @@ delivered to the [Docker Jakarta Meetup](http://www.meetup.com/Docker-Jakarta/) 
 [2014-03-08](http://www.meetup.com/Docker-Jakarta/events/166855632/), 
 held at [Wego](http://www.wego.co.id) offices.
 
-The presentation slides can be found on Google Docs at (http://bit.ly/dokku-2014-03).
+The presentation slides can be found on [Google Docs](http://bit.ly/dokku-2014-03).
