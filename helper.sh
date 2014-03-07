@@ -3,6 +3,7 @@ export dokku_domain_name="mainga.me"
 
 function ecow(){
     echo "$@" | cowsay -W 80 -f tux
+    sleep 5s
 }
 function parse_yaml {
    local prefix=$2
