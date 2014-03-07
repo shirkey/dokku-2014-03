@@ -1,15 +1,6 @@
-Shipping Code with Dokku
-------------------------
+Shipping Code with Dokku (source code)
+======================================
 
-Presented to Docker Jakarta Meetup on 2014.03.08
+This repository contains all original scripts used within the **Shipping Code with Dokku** presentation delivered to the Docker Indonesia meetup group, held at [Wego](http://www.wego.co.id) offices on 2014-03-08.
 
-Prerequisites
--------------
-To run the scripts, you must have cowsay installed.
-
-If you are using the (setup scripts for DigitalOcean server)[setup-dokku-server-at-digital-ocean.sh], you will need to install (tugboat)[https://github.com/pearkes/tugboat]
-
-Links
------
-(This site)[http://tiny.cc/dokku-2014-03]
-
+The presentation slides can be found on Google Docs at http://bit.ly/dokku-2014-03.
